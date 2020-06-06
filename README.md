@@ -1,4 +1,4 @@
-Netlify : https://priceless-fermat-ab0df8.netlify.app/
+Netlify : https://kenny-travel-agency.netlify.app
 
 This project has been made during a Hackathon of 26 hours with a team of 3 people.
 Theme : Travel from your couch !
